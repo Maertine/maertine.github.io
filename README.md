@@ -2,25 +2,28 @@
 
 #### Technical Skills:
 - Programming: Python, SQL, R
-- Data Science and Machine Learning: Neural Networks, Machine Learning, Exploratory Data Analysis, Deep Learning
-- Mathematics and Statistics: Advanced Mathematics, Statistical Analysis and Modeling
-- Data Handling and Database Skills: SQL, Pandas library for Python
+- Data Science and Machine Learning: Neural Networks, Machine Learning, Deep Learning, Exploratory Data Analysis (EDA)
+- Mathematics and Statistics: Advanced Mathematics, Statistical Analysis, and Modeling
+- Data Handling and Database Skills: Proficient in SQL, pandas library (Python)
 - Specialized Domains: Finance and Insurance
 
 ## Education
-**Masters in Financial and Insurance Mathematics at Charles University (_2022-2025_)**
-- Specialization in  Data Science topics such as Neural Networks, Decision Trees, Lenguage Models, Statistical Learning, Computer Vision
-- Advanced topics in Probability and Statistics
-- Extended theory of Insuarance Mathematics
+### **Master’s in Financial and Insurance Mathematics**
+*Charles University (2022-2025)*
+- Specialization in Data Science topics, including Neural Networks, Decision Trees, Language Models, Statistical Learning, and Computer Vision
+- Advanced studies in Probability and Statistics
+- Extended theory of Insurance Mathematics
 - Final Thesis: Neural Networks and Knowledge Distillation
 
-**Exchange at Copenhagen University (_2023-2024_)**
-- Attended courses specializing in Machine Learning, Deep Learning and Applied Statistics
+### **Exchange Program**
+*Copenhagen University (2023-2024)*
+- Focused on Machine Learning, Deep Learning, and Applied Statistics
 
-**Bachelors in Financial Mathematics at Charles University (_2019-2022_)**
+### **Bachelor’s in Financial Mathematics**
+*Charles University (2019–2022)*
 - Specialization in Financial Modeling
-- Primary courses were focused on General Mathematics such as Algebra, Calculus and Optimilization plus futher advances in Probability and Statistics
-- Secondary emphasis on Financial Mathematics and Accountancy
+- Core coursework in Algebra, Calculus, Optimization, Probability, and Statistics
+- Secondary focus on Financial Mathematics and Accountancy
 - Final Thesis: Selected Approaches to Seasonal Adjustment of Economic Time Series
 
 
