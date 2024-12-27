@@ -4,6 +4,7 @@
 
 ## Education						       		
 - Masters | Financial and Insurance Mathematics	| Charles University (_June 2025_)
+-- sdfkjf
 - Exchange | Statistics and Data Science | Copenhagen University (_June 2024_)	 			        		
 - Bachelors | Financial Mathematics | Charles University (_June 2022_)
 
