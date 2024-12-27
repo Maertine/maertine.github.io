@@ -1,12 +1,30 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R
+#### Technical Skills:
+- Programming: Python, SQL, R
+- Data Science and Machine Learning: Neural Networks, Machine Learning, Exploratory Data Analysis
+- Mathematics and Statistics: Advanced Mathematics, Statistical Analysis and Modeling
+- Data Handling and Database Skills: SQL, Pandas library for Python
+- Specialized Domains: Finance and Insurance
 
-## Education						       		
-- Masters | Financial and Insurance Mathematics	| Charles University (_June 2025_)
--- sdfkjf
-- Exchange | Statistics and Data Science | Copenhagen University (_June 2024_)	 			        		
-- Bachelors | Financial Mathematics | Charles University (_June 2022_)
+## Education
+**Masters in Financial and Insurance Mathematics at Charles University (_2022-2025_)**
+- Focused on Data Science
+- Advanced topics in Probability and Statistics
+- 
+
+**Exchange at Copenhagen University (_2023-2024_)**
+- Attended courses specializing in Data Science, Machine Learning, Deep Learning and Applied Statistics
+
+**Bachelors in Financial Mathematics at Charles University (_2019-2022_)**
+- Focused on Financial Modeling
+- Primary courses were focused on General Mathematics such as Algebra, Calculus and Optimilization plus futher advances in Probability and Statistics
+- Secondary focus on Financial Mathematics and Accountancy
+
+
+
+
+
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
