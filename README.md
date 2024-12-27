@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, R
 
 ## Education						       		
-- Masters, Financial and Insurance Mathematics	| Charles University (_June 2025_)
-- Exchange, Data Scieence | Copenhagen Universiry (_September 2023 - June 2024_)	 			        		
-- Bachelors, Financial Mathematics | Charles University (_June 2022_)
+- Masters | Financial and Insurance Mathematics	| Charles University (_June 2025_)
+- Exchange | Data Science | Copenhagen University (_September 2023 - June 2024_)	 			        		
+- Bachelors | Financial Mathematics | Charles University (_June 2022_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
