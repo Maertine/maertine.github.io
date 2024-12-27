@@ -4,7 +4,7 @@
 
 ## Education						       		
 - Masters | Financial and Insurance Mathematics	| Charles University (_June 2025_)
-- Exchange | Data Science | Copenhagen University (_September 2023 - June 2024_)	 			        		
+- Exchange | Statistics and Data Science | Copenhagen University (_June 2024_)	 			        		
 - Bachelors | Financial Mathematics | Charles University (_June 2022_)
 
 ## Work Experience
