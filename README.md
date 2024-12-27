@@ -2,24 +2,26 @@
 
 #### Technical Skills:
 - Programming: Python, SQL, R
-- Data Science and Machine Learning: Neural Networks, Machine Learning, Exploratory Data Analysis
+- Data Science and Machine Learning: Neural Networks, Machine Learning, Exploratory Data Analysis, Deep Learning
 - Mathematics and Statistics: Advanced Mathematics, Statistical Analysis and Modeling
 - Data Handling and Database Skills: SQL, Pandas library for Python
 - Specialized Domains: Finance and Insurance
 
 ## Education
 **Masters in Financial and Insurance Mathematics at Charles University (_2022-2025_)**
-- Focused on Data Science
+- Specialization in  Data Science topics such as Neural Networks, Decision Trees, Lenguage Models, Statistical Learning, Computer Vision
 - Advanced topics in Probability and Statistics
-- 
+- Extended theory of Insuarance Mathematics
+- Final Thesis: Neural Networks and Knowledge Distillation
 
 **Exchange at Copenhagen University (_2023-2024_)**
-- Attended courses specializing in Data Science, Machine Learning, Deep Learning and Applied Statistics
+- Attended courses specializing in Machine Learning, Deep Learning and Applied Statistics
 
 **Bachelors in Financial Mathematics at Charles University (_2019-2022_)**
-- Focused on Financial Modeling
+- Specialization in Financial Modeling
 - Primary courses were focused on General Mathematics such as Algebra, Calculus and Optimilization plus futher advances in Probability and Statistics
-- Secondary focus on Financial Mathematics and Accountancy
+- Secondary emphasis on Financial Mathematics and Accountancy
+- Final Thesis: Selected Approaches to Seasonal Adjustment of Economic Time Series
 
 
 
