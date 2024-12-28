@@ -28,7 +28,7 @@
 
 ## Projects
 
-
+(_to be changed but something like the following_)
 
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
