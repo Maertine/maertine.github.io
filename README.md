@@ -31,7 +31,5 @@
 ### Risk-Return Optimization: Implementing Markowitz Portfolio Models on Nasdaq-100
 [GitHub Repository](https://github.com/Maertine/PersonalPortfolio/tree/main/MarkowitzModels-Nasdaq100)
 
-(_to be changed but something like the following_)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed a comprehensive portfolio optimization strategy based on the Markowitz model with historical stock data from the Nasdaq-100 index, implemented in Python. The project involved rediscovering the theory behind the model through advanced mathematical optimization techniques, without relying on imported formulae.The approach included both fixed-return and fixed-risk portfolios, employing various reweighting strategies, comparing them to traditional benchmarks like equal-weighted and tangency portfolios. Results revealed the limitations of the Markowitz model and suggested improvements, such as using geometric means for return estimation and adjusting covariance calculations. This project provides insights into portfolio selection, highlighting the critical process of adjusting for risk and return while challenging and refining model assumptions.
 
